@@ -23,7 +23,6 @@ Our redesign Apple Maps majorly contains improved or innovative features includi
 * Additional Screen-On-Screen Functionality
 * Innovative Offline Services Access
 
-The prototype was built in Balsamiq and can be viewed in full at xxx.
-The video presentation was also uploaded to YouTube and can be viewed at xxx.
+The prototype was built in Balsamiq and can be viewed in full at https://drive.google.com/file/d/1ds-L0r3T_QV8BpmVHdLV8QNKljSltNPX/view?usp=sharing
 
 
