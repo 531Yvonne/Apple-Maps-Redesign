@@ -15,11 +15,11 @@ Apple Maps is a web mapping service developed by Apple Inc. Following the produc
 * Analyze strengths and opportunities for further improvements
 
 Our redesign Apple Maps majorly contains improved or innovative features including:
-* Apple Maps Icon
-* Search Bar
-* Favorite Button
-* Screen-On-Screen Functionality
-* Offline Services
+* Redesigned Apple Maps Icon
+* Unified Search Bar
+* Efficient Favorite Button
+* Additional Screen-On-Screen Functionality
+* Innovative Offline Services Access
 
 The prototype was built in Balsamiq and can be viewed in full at xxx.
 The video presentation was also uploaded to YouTube and can be viewed at xxx.
